@@ -10,8 +10,7 @@ The Financial Planner is an **Excel-based tool** designed to streamline personal
 - **Interactive user interface** with easy-to-navigate tabs and dashboards
   
 ## 🚀 How to Use  
-1. Download the financial planner file:  
-   [Link to the Excel file]  
+1. Download the financial planner file
 2. Open the Excel file in Microsoft Excel  
 3. Enable macros and adjust your financial inputs in the dedicated sections  
 4. View detailed reports and manage your financial goals easily
